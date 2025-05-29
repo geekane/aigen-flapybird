@@ -1,3 +1,1 @@
 ![我的图片描述](1.png)
-Image link not found in "README.md". Adding it...
-![Flappy Bird Game Screenshot](./1.png
