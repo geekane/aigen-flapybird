@@ -1,1 +1,3 @@
 ![我的图片描述](https://i.111666.best/image/qMIGycjS4UQJbcZLwWsdPH.png)
+Image link not found in "README.md". Adding it...
+![Flappy Bird Game Screenshot](./1.png
